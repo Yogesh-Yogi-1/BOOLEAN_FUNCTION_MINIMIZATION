@@ -50,7 +50,6 @@ and(p,bdash,ddash);
 and(q,adash,b,d);
 and(r,a,b,cdash);
 or(f1,p,q,r);
-//type code for f2 as like f1
 endmodule
 ```
 **RTL realization**
